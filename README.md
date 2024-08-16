@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Web developers are forever learning and evolving.
+forever learning and evolving.
 
 <a href="https://www.github.com/narongritza0011" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/narongritza0011?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
